@@ -1,4 +1,4 @@
-#Suffix Array in Python
+#Suffix Array implementation Python
 import time
 from collections import defaultdict, Counter
 
